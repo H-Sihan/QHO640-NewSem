@@ -1,0 +1,22 @@
+
+{
+  "name": "qho640-newsem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-Sihan/QHO640-NewSem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/H-Sihan/QHO640-NewSem/issues"
+  },
+  "homepage": "https://github.com/H-Sihan/QHO640-NewSem#readme"
+}
