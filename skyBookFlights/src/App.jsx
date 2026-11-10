@@ -15,7 +15,7 @@ export default function App() {
         </header>
         <main>
             <SearchForm onSearch={setSearch} />
-            <FlightList flights={flights} onSelect={selectFlight} />
+            <FlightList flights={results} onSelect={selectFlight} />
         </main>
     </div>;
 
