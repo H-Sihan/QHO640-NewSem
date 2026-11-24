@@ -65,3 +65,6 @@ button:disabled {
   background-color: #fff3c4;
   margin-bottom: 16px;
 }
+.table-wrap {
+  overflow-x: auto;
+}
